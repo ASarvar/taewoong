@@ -1,0 +1,175 @@
+{
+  "Menu": {
+    "home": "Home",
+    "about": "About",
+    "service": "Services",
+    "gallery": "Gallery",
+    "contact": "Contacts",
+    "book": "Book now"
+  },
+
+  "Submenu": {
+    "visa": "Visa",
+    "ticket": "Tickets",
+    "trip": "Private trip / Pickup service",
+    "moving": "Moving service"
+  },
+
+  "Banner": {
+    "title1": "Samarkand",
+    "title2": "Bukhara",
+    "title3": "Khiva"
+  },
+  "Trip": {
+    "title1": "Discover ancient wonders of Samarkand",
+    "text1": "Samarkand is a city steeped in history, known for its stunning Islamic architecture, vibrant bazaars, and the iconic Registan Square.",
+
+    "title2": "Discover the enigmatic Aral Sea",
+    "text2": "The Aral Sea, once a thriving oasis, has dramatically transformed over the decades. Explore its surreal landscapes, abandoned ship graveyards, and learn about its fascinating yet tragic history.",
+    "title3": "Discover the timeless beauty of Bukhara",
+    "text3": "Bukhara, a city with over a thousand years of history, is a UNESCO World Heritage site, known for its majestic mosques, madrasas, and the ancient Ark Fortress.",
+    "title4": "Explore the Vast Kyzylkum Desert and Aydarkul Lake",
+    "text4": "Discover the tranquility of the Kyzylkum Desert, a vast sandy landscape, and the serene beauty of Aydarkul Lake, an oasis in the heart of the desert.",
+    "title5": "Experience the majestic Amirsoy resort",
+    "text5": "Nestled in the mountains, Amirsoy offers an exhilarating escape with its world-class ski slopes, breathtaking views, and a wide array of outdoor activities.",
+    "title6": "Step back in time in the ancient city of Khiva",
+    "text6": "Khiva is a beautifully preserved medieval city, known for its narrow streets, vibrant madrasas, and the iconic Itchan Kala, a UNESCO World Heritage site.",
+    "feature": "Featured",
+    "more": "Trip photos",
+    "include": "The tour includes:",
+    "hotel": "Hotel*",
+    "hotelInfo": "* Accommodation in any hotel of your choice – from a guest house to a 5 star hotel",
+    "ticket": "Air ticket – economy/business class of your choice (in the case of a train, a train ticket)",
+    "guide": "Guide",
+    "tax": "Tourist tax",
+    "insurance": "Medical insurance",
+    "transport": "Air-conditioned transport for all transfers, trips and excursions around the city",
+    "exclude": "The price does not include:",
+    "expenses": "All personal expenses: payment for photo and video cameras at monuments",
+    "baggage": "Excess baggage",
+    "tip": "Tips",
+    "entrance": "Entrance tickets to monuments",
+    "meals": "Lunch and dinner meals",
+    "visa": "Visa to Uzbekistan (if required)",
+    "lounge": "VIP lounge at the airport",
+    "textInfo": "We work with each client individually; depending on your requirements, we will make your trip as comfortable and memorable as possible. For more information, you can write to the post office or call us at the listed number.",
+    "yurt": "Yurt/Hotel",
+    "accommodation": "Hotel",
+    "meals2": "Meals 3 times: breakfast, lunch and dinner",
+    "meals3": "Meals are breakfast only",
+    "snow": "Skiing, snowboarding, ATV/snowmobile riding, spa and massages",
+    "tourDetails": "Tour details ",
+    "closeDetails": "Close details "
+  },
+
+  "Service": {
+    "title1": "Book your tickets",
+    "text1": "We offer hassle-free air and railway ticket booking for your convenience. Whether you're flying internationally or domestically, or traveling by train, our team will help you find the best routes and rates available.",
+    "text2": "We provide booking services for the following airlines:",
+    "text3": "Uzairways – Uzbekistan's national carrier with numerous international and domestic flights.",
+    "text4": "Qanot Sharq – Known for affordable flights across various destinations.",
+    "text5": "Silk Avia – A popular choice for domestic and regional air travel.",
+    "text6": "Get the best rates and comfortable flights through us.",
+    "train": "We also offer railway ticket booking for a comfortable and scenic travel experience. With access to Uzbekistan's extensive rail network, we ensure that you can easily book trains to popular destinations across the country. Let us help you find the most convenient and cost-effective routes for your journey.",
+    "title2": "Pickup Service",
+    "text7": "Enjoy a smooth arrival with our pickup service. Whether you're arriving at the airport or need transport between locations, we provide reliable and comfortable transfer options.",
+    "title3": "Professional Moving Services",
+    "text8": "We offer reliable and secure moving services for transporting your household goods within Uzbekistan and to any country around the world. Whether you're relocating or sending goods to loved ones, we ensure safe and timely delivery of your items.",
+    "text9": "Our services include:",
+    "text10": "Door-to-door moving services within Uzbekistan and to any country worldwide.",
+    "text11": "Handling and transportation of household items, personal belongings, and more.",
+    "text12": "Customizable solutions to meet your specific moving needs.",
+    "text13": "Whether you're moving to a new home or need to send goods internationally, our professional team will manage everything from packing to delivery, ensuring your belongings arrive safely and on time."
+  },
+
+  "Destination": {
+    "title": "Discover the World's treasures with Taewoong Travel",
+    "title2": "Explore popular destinations",
+    "subtitle1": "One site",
+    "subtitle2": "most popular experience you’ll remember",
+    "samarkand": "Samarkand",
+    "bukhara": "Bukhara",
+    "khiva": "Khiva",
+    "aral": "Aral Sea",
+    "amirsoy": "Amirsoy",
+    "navoiy": "Navoiy",
+    "tashkent": "Tashkent",
+    "uzbekistan": " Uzbekistan",
+    "itchan": "Itchan Kala",
+    "registan": "Registan Square",
+    "kyzylkum": "Kyzylkum and Aydarkul",
+    "booknow": "Details"
+  },
+  "Expert": {
+    "title1": "Let’s talk our experts",
+    "text1": "Our dedicated support team is always ready to assist you with any questions or issues, offering prompt and personalized solutions to meet your needs.",
+    "expert1": "Akbar",
+    "expert2": "Shakhrizoda",
+    "expert3": "Eldor",
+    "expert4": "Tolibjon",
+    "phone": "+998 71 230 23 39",
+    "expert1Phone1": "+998 93 183 89 37",
+    "expert1Phone2": "+998 90 099 40 94",
+    "expert2Phone": "+998 93 713 24 22",
+    "expert3Phone": "+998 77 011 07 09",
+    "expert4Phone": "+998 90 651 66 22"
+  },
+
+  "About": {
+    "text1": "A young and dynamically growing tour operator, striving to offer clients unique and unforgettable journeys. We specialize in creating vibrant travel experiences, offering a variety of itineraries for any type of vacation. Our portfolio includes sightseeing tours, active adventures, beach holidays, and personalized routes tailored to your preferences and interests.",
+    "text2": "We begin our journey with the goal of providing each client with a personalized approach and the opportunity to discover new, interesting, and unusual places.",
+    "contact": "Contact Us",
+    "title2": "Meet Our Team",
+    "text3": "Our team of professionals is always ready to help you choose a tour, provide up-to-date information, and answer all your questions. Planning a vacation with us is easy, as we take care of every detail — from transportation and accommodation to organizing excursions and leisure activities.",
+    "title3": "Our goals",
+    "goals1": "1. Ensure high-quality service",
+    "goals1text": "Our main goal is to provide top-level services. We strive to ensure that every client receives not just a tour, but a unique experience filled with comfort and safety. To achieve this, we work only with trusted partners and continuously improve our services.\n",
+    "goals2": "2. A personalized approach to each client",
+    "goals2text": "We understand that every traveler is unique, and our goal is to create a tour that perfectly matches the interests and needs of each client. From beach vacations to active adventures, we offer exactly what you need.",
+    "goals3": "3. Expanding horizons and offerings",
+    "goals3text": "We are constantly seeking new and exciting destinations, developing and updating our tours to offer clients the most relevant and diverse options for relaxation and travel.\n\n",
+    "goals4": "4. Support and safety at every stage of the journey",
+    "goals4text": "We care about ensuring that every moment of your vacation is safe and enjoyable. Our goal is to provide you with complete support at every stage of your journey, from planning to returning home.",
+    "goals5": "5. Promoting the culture of travel",
+    "goals5text": "We strive to make travel accessible to everyone. Through educational events, partnerships, and active tourism promotion, we inspire people to explore the world, broaden their horizons, and enrich their experiences.",
+    "goals6": "6. Promoting sustainable tourism",
+    "goals6text": "We are committed to environmental principles and sustainable tourism, supporting initiatives and activities that promote nature conservation and support local communities with whom we work."
+  },
+
+  "Contact": {
+    "title1": "Let’s talk our expert travel guides",
+    "text1": "Our dedicated support team is always ready to assist you with any questions or issues, offering prompt and personalized solutions to meet your needs.",
+    "subtitle1": "Email",
+    "subtitle2": "Office phone number",
+    "subtitle3": "Office address",
+    "subtitle4": "Telegram",
+    "subtitle5": "Instagram"
+  },
+
+  "Gallery": {
+    "title1": "Explore our photo gallery",
+    "subtitle1": "Tour & Travel"
+  },
+
+  "Client": {
+    "title1": "Our partners",
+    "subtitle1": ""
+  },
+
+  "Visa": {
+    "maintitle": "Visas",
+    "title1": "Application for visa",
+    "content1": "You can download the application example via this link."
+  },
+
+  "Footer": {
+    "text1": "Explore the world with us! Whether you're seeking a hidden gem or a luxurious getaway, we craft personalized travel experiences to make your journey unforgettable.",
+    "address": "100015, 7/7a, Fidokor street, Mirabad district, Tashkent city, Uzbekistan",
+    "workhours": "Mon - Fri, 08:30am - 05:30pm",
+    "name": "Taewoong Travel",
+    "copyright": " All rights reserved",
+    "director": "Director",
+    "directorName": "Hyun Seang Min",
+    "company": "\"TGL International\" LLC"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Menu": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "service": "Xizmatlar",
+    "gallery": "Galereya",
+    "contact": "Aloqalar",
+    "book": "Batafsil"
+  },
+
+  "Submenu": {
+    "visa": "Viza",
+    "ticket": "Chiptalar",
+    "trip": " Individual sayohat/ Transfer xizmati",
+    "moving": "Ko‘chirish xizmati"
+  },
+
+  "Banner": {
+    "title1": "Samarqand",
+    "title2": "Buxoro",
+    "title3": "Xiva"
+  },
+
+  "Trip": {
+    "title1": "Samarqandning qadimiy mo‘jizalarini kashf eting",
+    "text1": "Samarqand boy tarixga ega shahar bo‘lib, u islomiy me'morchiligi, jonli bozorlar va mashhur Registon maydoni bilan mashhur.",
+    "title2": "Sirli Orol dengizini o‘rganing",
+    "text2": "Orol dengizi, bir paytlar jonlangan voha, so'nggi o‘n yilliklar davomida sezilarli darajada o‘zgardi. Uning g‘aroyib manzaralari, tashlandiq kemalar qabristonini ko‘ring va uning qiziqarli, ammo fojiali tarixini bilib oling.",
+    "title3": "Buxoroning abadiy go‘zalligini kashf eting",
+    "text3": "Buxoro ming yildan ortiq tarixga ega shahar bo‘lib, YuNESKOning Jahon merosi ro‘yxatiga kiritilgan. U o‘zining ulug‘vor masjidlari, madrasalari va qadimiy Ark qal'asi bilan mashhur.",
+    "title4": "Qizilqum cho‘li va Aydarko‘lni kashf eting",
+    "text4": "Qizilqum cho‘lining tinchligini va cho‘lning o‘rtasida joylashgan Aydarkul ko‘lining osoyishta go‘zalligini kashf eting.",
+    "title5": "Amirsoy kurortining maftunkorligini his eting",
+    "text5": "Tog‘larda joylashgan Amirsoy dunyo darajasidagi chang‘i yo‘llari, ajoyib manzaralari va turli xil ochiq havoda o‘tkaziladigan faoliyatlari bilan ajoyib dam olishni taklif etadi.",
+    "title6": "Xivada o‘tmishga qayting",
+    "text6": "Xiva — bu ajoyib saqlangan o‘rta asrlar shahri bo‘lib, tor ko‘chalari, jonli madrasalari va YuNESKOning Jahon merosi ro‘yxatiga kiritilgan mashhur Ichon-Qal'a bilan mashhur.",
+    "feature": "Tavsiya etilgan",
+    "more": "Sayohat suratlari",
+    "include": "Sayohatga kiradi:",
+    "hotel": "Mehmonxona*",
+    "hotelInfo": "* Siz tanlagan har qanday mehmonxonada – mehmon uyidan tortib 5 yulduzli mehmonxonagacha",
+    "ticket": "Avia chipta – ekonom/biznes klass (poezd bo‘lsa, poezd chiptasi)",
+    "guide": "Gid",
+    "tax": "Sayyohlik solig‘i",
+    "insurance": "Tibbiy sug‘urta",
+    "transport": "Shahar bo‘ylab barcha transferlar, sayohatlar va ekskursiyalar uchun konditsionerli transport",
+    "exclude": "Narxga kirmaydi:",
+    "expenses": "Barcha shaxsiy xarajatlar: yodgorliklarda foto va video kameralar uchun to‘lov",
+    "baggage": "Qo‘shimcha bagaj",
+    "tip": "Choychaqa",
+    "entrance": "Yodgorliklarga kirish chiptalari",
+    "meals": "Tushlik va kechki ovqat",
+    "visa": "O‘zbekistonga visa (agar kerak bo‘lsa)",
+    "lounge": "Aeroportda VIP zal",
+    "textInfo": "Biz har bir mijoz bilan alohida ishlaymiz; talablaringizga qarab, sayohatingizni iloji boricha qulay va esda qolarli qilamiz. Qo‘shimcha ma'lumot uchun bizning pochtaga yozishingiz yoki ko‘rsatilgan raqamga qo‘ng‘iroq qilishingiz mumkin.",
+    "yurt": "Yurt/Mehmonxona",
+    "accommodation": "Mehmonxona",
+    "meals2": "Ovqat 3 marta: nonushta, tushlik va kechki ovqat",
+    "meals3": "Ovqat faqat nonushta",
+    "snow": "Chang‘i, snoubord, ATV/qor mototsikli minish, spa va massajlar",
+    "tourDetails": "Batafsil",
+    "closeDetails": "Tafsilotlarni yopish"
+  },
+
+  "Service": {
+    "title1": "Chiptalar bron qilish",
+    "text1": "Biz siz uchun qulay havo va temir yo‘l chiptalarini bron qilish xizmatlarini taklif qilamiz. Xalqaro yoki mahalliy parvoz yoki poezd sayohati bo‘ladimi, jamoamiz sizga eng yaxshi yo‘nalish va narxlarni topishda yordam beradi.",
+    "text2": "Biz quyidagi aviakompaniyalarga bron qilish xizmatlarini taklif etamiz:",
+    "text3": "Uzairways — O‘zbekistonning milliy tashuvchisi bo‘lib, ko‘plab xalqaro va mahalliy reyslarni amalga oshiradi.",
+    "text4": "Qanot Sharq — Turli yo‘nalishlar bo‘yicha qulay reyslari bilan mashhur.",
+    "text5": "Silk Avia — Mahalliy parvozlar uchun mashhur tanlov.",
+    "text6": "Biz orqali eng yaxshi narxlar va qulay reyslarga ega bo‘ling.",
+    "train": "Biz shuningdek, qulay va manzarali poezd sayohati uchun temir yo‘l chiptalarini bron qilish xizmatlarini taqdim etamiz. O‘zbekistonning keng temir yo‘l tarmog‘iga kirish imkoniyati bilan, mamlakat bo‘ylab mashhur yo‘nalishlarga oson poezd bron qilish imkoniyatini ta’minlaymiz. Sayohatingiz uchun eng qulay va arzon yo‘nalishlarni topishda yordam beramiz.",
+    "title2": "Olib ketish xizmati",
+    "text7": "Bizning olib ketish xizmatimiz bilan sayohatingizni osonlashtiring. Aeroportga kelishingizdan yoki joylar o‘rtasida transportga ehtiyojingizdan qat'i nazar, biz sizga ishonchli va qulay transfer xizmatlarini taqdim etamiz.",
+    "title3": "Professional ko‘chirish xizmatlari",
+    "text8": "Biz sizning uy-ro‘zg‘or buyumlaringizni O‘zbekiston ichida va dunyoning istalgan mamlakatiga xavfsiz va ishonchli tashish xizmatlarini taklif etamiz. Agar siz ko‘chayotgan bo‘lsangiz yoki yaqinlaringizga yuk jo‘natayotgan bo‘lsangiz, biz buyumlaringizni o‘z vaqtida va xavfsiz yetkazib berishni ta'minlaymiz.",
+    "text9": "Bizning xizmatlarimizga quyidagilar kiradi:",
+    "text10": "O‘zbekiston ichida va dunyo bo‘ylab «eshikdan eshikgacha» ko‘chirish xizmatlari.",
+    "text11": "Uy-ro‘zg‘or buyumlari, shaxsiy narsalar va boshqa yuklarni tashish.",
+    "text12": "Sizning ko‘chish ehtiyojlaringizga moslashtirilgan maxsus yechimlar.",
+    "text13": "Agar siz yangi uyingizga ko‘chayotgan bo‘lsangiz yoki xalqaro yuk jo‘natmoqchi bo‘lsangiz, bizning professional jamoamiz barcha ishlarni boshqaradi — qadoqlashdan tortib yetkazib berishga qadar, buyumlaringiz xavfsiz va o‘z vaqtida yetib kelishini ta’minlaymiz."
+  },
+
+  "Destination": {
+    "title": "Taewoong Travel bilan dunyo boyliklarini kashf eting",
+    "title2": "Mashhur yo‘nalishlarni o‘rganing",
+    "subtitle1": "Bitta joy",
+    "subtitle2": "esda qoladigan eng mashhur tajriba",
+    "samarkand": "Samarqand",
+    "bukhara": "Buxoro",
+    "khiva": "Xiva",
+    "aral": "Orol dengizi",
+    "amirsoy": "Amirsoy",
+    "navoiy": "Navoiy",
+    "tashkent": "Toshkent",
+    "uzbekistan": " O‘zbekiston",
+    "itchan": "Ichon-Qal'a",
+    "registan": "Registon maydoni",
+    "kyzylkum": "Qizilqum va Aydarkul",
+    "booknow": "Batafsil"
+  },
+
+  "Expert": {
+    "title1": "Bizning ekspertlar bilan muloqot qiling",
+    "text1": "Bizning yordam jamoamiz har doim sizga har qanday savollaringiz yoki muammolaringizda yordam berishga tayyor. Shaxsiylashtirilgan yechimlarni taklif qilib, ehtiyojlaringizni tezda hal qiladi.",
+    "expert1": "Akbar",
+    "expert2": "Shahrizoda",
+    "expert3": "Eldor",
+    "expert4": "Tolibjon",
+    "phone": "+998 71 230 23 39",
+    "expert1Phone1": "+998 93 183 89 37",
+    "expert1Phone2": "+998 90 099 40 94",
+    "expert2Phone": "+998 93 713 24 22",
+    "expert3Phone": "+998 77 011 07 09",
+    "expert4Phone": "+998 90 651 66 22"
+  },
+  "About": {
+    "text1": "Biz yosh va dinamik rivojlanayotgan tur operatorimiz, mijozlarimizga noyob va unutilmas sayohatlar taklif qilishni maqsad qilganmiz. Biz yorqin sayohat tajribalarini yaratishga ixtisoslashganmiz, dam olish uchun turli marshrutlar va ekskursiyalarni taklif etamiz. Bizning portfelimizda ekskursiya turlari, faol sarguzashtlar, sohil dam olishlari va sizning qiziqish va istaklaringizga moslashtirilgan individual marshrutlar mavjud.", 
+    "text2": "Biz har bir mijozga shaxsiy yondashuv va yangi, qiziqarli va g‘aroyib joylarni kashf etish imkoniyatini taqdim etish maqsadida sayohatimizni boshlaymiz.", 
+    "contact": "Biz bilan bog‘laning",
+    "title2": "Bizning jamoamiz bilan tanishing",
+    "text3": "Bizning professional jamoamiz har doim sizga tur tanlashda yordam berishga, yangilangan ma’lumotlarni taqdim etishga va barcha savollaringizga javob berishga tayyor. Biz bilan dam olishni rejalashtirish oson, chunki biz transport va turar joylardan tortib, ekskursiyalar va dam olish tadbirlarini tashkil qilishgacha bo‘lgan barcha tafsilotlarni boshqaramiz.",
+    "title3": "Bizning maqsadlarimiz",
+    "goals1": "1. Yuqori sifatli xizmat ko‘rsatish",
+    "goals1text": "Bizning asosiy maqsadimiz yuqori darajadagi xizmatlarni taqdim etish. Biz har bir mijoz nafaqat sayohat, balki qulaylik va xavfsizlik bilan boyitilgan noyob tajribani olishiga intilamiz. Bunga erishish uchun biz faqat ishonchli hamkorlar bilan ishlaymiz va xizmatlarimizni doimiy ravishda yaxshilab boramiz.",
+    "goals2": "2. Har bir mijozga shaxsiy yondashuv",
+    "goals2text": "Biz har bir sayohatchining o‘ziga xosligini tushunamiz va har bir mijozning qiziqishlari va ehtiyojlariga mos keladigan tur yaratish maqsadimiz. Plyaj dam olishlaridan tortib, faol sarguzashtlargacha, biz aynan sizga kerak bo‘lgan narsani taklif qilamiz.\n\n\n",
+    "goals3": "3. Gorizontlar va takliflarni kengaytirish",
+    "goals3text": "Biz doimo yangi va qiziqarli yo‘nalishlarni izlaymiz, turlarimizni ishlab chiqamiz va yangilaymiz, mijozlarimizga dam olish va sayohatlar uchun eng dolzarb va xilma-xil variantlarni taklif qilamiz.\n\n\n\n\n",
+    "goals4": "4. Har bir sayohat bosqichida qo‘llab-quvvatlash va xavfsizlikni ta’minlash",
+    "goals4text": "Biz sizning sayohatingizning har bir daqiqasi xavfsiz va zavqli bo‘lishini ta’minlashga intilamiz. Bizning maqsadimiz sizga sayohatni rejalashtirishdan tortib uyga qaytguningizga qadar har bir bosqichda to‘liq qo‘llab-quvvatlashni taqdim etishdir.",
+    "goals5": "5. Sayohat madaniyatini rivojlantirish",
+    "goals5text": "Biz sayohatni barchaga qulay qilishga intilamiz. O‘quv tadbirlari, hamkorliklar va faol turizmni targ‘ib qilish orqali biz odamlarni dunyoni o‘rganishga, gorizontlarini kengaytirishga va tajribalarini boyitishga ilhomlantiramiz.\n\n\n\n",
+    "goals6": "6. Barqaror turizmni qo‘llab-quvvatlash",
+    "goals6text": "Biz ekologiya tamoyillariga va barqaror turizmga sodiqmiz, tabiatni muhofaza qilish va hamkorlik qilayotgan mahalliy hamjamiyatlarni qo‘llab-quvvatlashga qaratilgan tashabbuslarni va faoliyatlarni qo‘llab-quvvatlaymiz.\n\n\n\n"
+  },
+
+  "Contact": {
+    "title1": "Bizning sayohat bo‘yicha ekspertlarimiz bilan bog‘laning",
+    "text1": "Bizning yordam jamoamiz har doim sizga har qanday savollaringiz yoki muammolaringizda yordam berishga tayyor. Shaxsiylashtirilgan yechimlarni taklif qilib, ehtiyojlaringizni tezda hal qiladi.",
+    "subtitle1": "Ofis pochtasi",
+    "subtitle2": "Ofis telefon raqami",
+    "subtitle3": "Ofis manzili",
+    "subtitle4": "Telegram",
+    "subtitle5": "Instagram"
+  },
+
+  "Gallery": {
+    "title1": "Bizning foto galereyamizni o‘rganing",
+    "subtitle1": "Turizm va sayohat"
+  },
+
+  "Client": {
+    "title1": "Bizning hamkorlarimiz",
+    "subtitle1": ""
+  },
+
+  "Visa": {
+    "maintitle": "Vizalar",
+    "title1": "Visa uchun ariza",
+    "content1": "Siz ushbu havola orqali ariza namunasi yuklab olishingiz mumkin."
+  },
+
+  "Footer": {
+    "text1": "Biz bilan dunyoni kashf eting! Agar siz yashirin marvaridni yoki hashamatli dam olishni izlayotgan bo‘lsangiz, biz sizning sayohatingizni unutilmas qilish uchun shaxsiylashtirilgan sayohat tajribalarini yaratamiz.",
+    "address": "100015, Fidokor ko‘chasi, 7/7a, Mirabod tumani, Toshkent shahri, O‘zbekiston",
+    "workhours": "Dush - Juma, 08:30 - 17:30",
+    "name": "Taewoong Travel",
+    "copyright": "Barcha huquqlar himoyalangan",
+    "director": "Direktor",
+    "directorName": "Hyun Seang Min",
+    "company": "\"TGL International\" MChJ"
+  }
+}
